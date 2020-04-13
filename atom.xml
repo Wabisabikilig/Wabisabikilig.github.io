@@ -1,56 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>Philisterのblog</title>
   
-  <subtitle>时间之间</subtitle>
+  <subtitle>君子知命不惧 日日自新</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://trayfour34.github.io/"/>
-  <updated>2020-04-12T10:37:36.250Z</updated>
-  <id>https://trayfour34.github.io/</id>
+  <link href="https://wabisabikilig.github.io/"/>
+  <updated>2020-04-12T16:59:03.102Z</updated>
+  <id>https://wabisabikilig.github.io/</id>
   
   <author>
-    <name>ray</name>
+    <name>Philister</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>dmca.gripe:永久托管你的小文件</title>
-    <link href="https://trayfour34.github.io/posts/20976.html"/>
-    <id>https://trayfour34.github.io/posts/20976.html</id>
-    <published>2020-04-08T15:16:48.793Z</published>
-    <updated>2020-04-12T10:37:36.250Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="发现" scheme="https://trayfour34.github.io/categories/%E5%8F%91%E7%8E%B0/"/>
-    
-    
-      <category term="gripe" scheme="https://trayfour34.github.io/tags/gripe/"/>
-    
-      <category term="blog" scheme="https://trayfour34.github.io/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="https://trayfour34.github.io/posts/16107.html"/>
-    <id>https://trayfour34.github.io/posts/16107.html</id>
-    <published>2020-04-08T15:16:48.793Z</published>
-    <updated>2020-02-26T13:52:23.492Z</updated>
+    <link href="https://wabisabikilig.github.io/posts/16107.html"/>
+    <id>https://wabisabikilig.github.io/posts/16107.html</id>
+    <published>2020-04-12T14:51:18.844Z</published>
+    <updated>2020-04-12T16:59:03.102Z</updated>
     
     <summary type="html">
     
@@ -65,19 +36,15 @@
     </summary>
     
     
-      <category term="随笔" scheme="https://trayfour34.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="hexo" scheme="https://trayfour34.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
-    <title>如何订阅我的博客（不要脸</title>
-    <link href="https://trayfour34.github.io/posts/22328.html"/>
-    <id>https://trayfour34.github.io/posts/22328.html</id>
-    <published>2020-02-25T14:21:30.000Z</published>
-    <updated>2020-03-03T08:51:47.345Z</updated>
+    <title>我的第一篇文章</title>
+    <link href="https://wabisabikilig.github.io/posts/62824.html"/>
+    <id>https://wabisabikilig.github.io/posts/62824.html</id>
+    <published>2020-04-12T11:19:42.000Z</published>
+    <updated>2020-04-12T14:53:33.161Z</updated>
     
     <summary type="html">
     
@@ -85,48 +52,15 @@
       
         
         
-          &lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
+&lt;script&gt;
+       
         
       
     
     </summary>
     
     
-      <category term="发现" scheme="https://trayfour34.github.io/categories/%E5%8F%91%E7%8E%B0/"/>
-    
-    
-      <category term="Rss" scheme="https://trayfour34.github.io/tags/Rss/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ucloud----对象存储的最终选择</title>
-    <link href="https://trayfour34.github.io/posts/64617.html"/>
-    <id>https://trayfour34.github.io/posts/64617.html</id>
-    <published>2020-02-25T08:21:30.000Z</published>
-    <updated>2020-02-26T15:54:23.407Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="发现" scheme="https://trayfour34.github.io/categories/%E5%8F%91%E7%8E%B0/"/>
-    
-    
-      <category term="Ucloud" scheme="https://trayfour34.github.io/tags/Ucloud/"/>
-    
-      <category term="picgo" scheme="https://trayfour34.github.io/tags/picgo/"/>
-    
-      <category term="七牛" scheme="https://trayfour34.github.io/tags/%E4%B8%83%E7%89%9B/"/>
     
   </entry>
   
